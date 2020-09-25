@@ -1,0 +1,27 @@
+{
+  "name": "samautoassignment",
+  "version": "1.0.0",
+  "description": "base project",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamreshQA/SamAutoAssignment.git"
+  },
+  "keywords": [
+    "TestAssignment"
+  ],
+  "author": "Samresh Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamreshQA/SamAutoAssignment/issues"
+  },
+  "homepage": "https://github.com/SamreshQA/SamAutoAssignment#readme",
+  "devDependencies": {
+    "cypress": "^5.2.0",
+    "mocha": "^5.2.0",
+    "mochawesome": "^6.1.1"
+  }
+}

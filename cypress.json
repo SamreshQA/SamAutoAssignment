@@ -1,5 +1,4 @@
 {
-    "baseUrl": "https://qaassessment.intellihrdev.net/",
     "reporter": "mochawesome",
     "testFiles": "**/*.{feature,features}"
 }
